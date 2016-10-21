@@ -1,3 +1,4 @@
-markdown: redcarpet
+name: Johngo, Artist
+markdown: kramdown
 baseurl: /jekyllblog
 exclude: ['README.md']
